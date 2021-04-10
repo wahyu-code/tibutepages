@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+#main{
+    text-align: center;
+    background-color:rgba(227, 229, 231, 0.465);
+    padding: 5px 1% 0 1%;
+}
+#img-div{
+    background-color:white;
+    padding: 0 2% 15px 2%;
+    margin: 10px;
+    border: 15px solid white;
+}    
+#img-caption{
+    font-size: 19px;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+   
+}
+#tribute-info{
+padding: 0 10% 0 10%;
+}
+    
